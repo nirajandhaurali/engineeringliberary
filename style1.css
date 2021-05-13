@@ -1,0 +1,79 @@
+#background{
+    color : red ; /*color red*/
+    text-decoration:underline;
+    line-height: 100px;
+    
+}
+#heading{
+    border: turquoise;
+    size: 50px;
+}
+ 
+#navigation{
+    background-color: green;
+   list-style-type: none;
+   overflow: auto;
+   
+}
+.nav{
+    color: wheat;
+    padding: 10px 15px;
+    float: left;
+    cursor: pointer;
+    
+}
+
+#p1 {
+    color: blue;
+    text-transform: uppercase;
+}
+
+.greentext{
+    color:green;
+   
+}
+#background{
+    background-color: green;
+    height: 500px;
+    width: 400px;
+    cursor: grab;
+    
+    
+}
+
+body
+{
+    background-color: rgb(223, 212, 212);
+    cursor: not-allowed;
+}
+
+body{
+    background-attachment: fixed;
+}
+
+#ece{
+    text-indent: 100px;
+}
+
+a{
+    background-color: teal;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color:darkorange;
+}
+a:hover{
+    border: tomato;
+    background-color: tomato;
+    color: chartreuse;
+}
+a:active{
+    color:darkblue
+}
+#gmail_id{
+    color: red;
+}
+
+
